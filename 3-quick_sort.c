@@ -15,7 +15,7 @@ void swap(int *i, int *j)
 }
 
 /**
- * partition- Lomuto partition
+ * partition- Lomuto partition i dont understand
  * @array: array
  * @lo: index begins partition
  * @hi: index ends partition
